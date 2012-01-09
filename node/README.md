@@ -1,7 +1,8 @@
 # Using Node.js as Game Server
 
 These are the files for adding Node.Js support to Windows Azure Toolkit for Social Gaming. It was tested
-with [version 1.1.1](http://watgames.codeplex.com/releases/view/77091)
+with 
+[version 1.1.1](http://watgames.codeplex.com/releases/view/77091)
 
 ## Web Project Setup
 
@@ -19,4 +20,5 @@ Then, start your node.js server:
     
 ## More details
 
-See post [post](http://ajlopez.wordpress.com/category/nodejs]
+See post 
+[post](http://ajlopez.wordpress.com/category/nodejs]
